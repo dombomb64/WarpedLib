@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:colored/shulker_boxes/colored",
+		"minecraft:shulker_box"
+	]
+}

@@ -1,2 +1,2 @@
 # WarpedLib
- A Minecraft data pack library.
+A library required for some of my data packs.

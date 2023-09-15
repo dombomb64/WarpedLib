@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:colored/terracotta/colored",
+		"minecraft:terracotta"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:placeable_fluid_buckets",
+		"#warpedlib:placeable_fluid_buckets_with_entity"
+	]
+}

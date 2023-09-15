@@ -1,0 +1,8 @@
+{
+	"values": [
+		"minecraft:light_weighted_pressure_plate",
+		"minecraft:heavy_weighted_pressure_plate",
+		"#warpedlib:wooden_pressure_plates",
+		"#warpedlib:stone_pressure_plates"
+	]
+}

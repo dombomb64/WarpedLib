@@ -1,0 +1,39 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:air",
+		"#warpedlib:placeable_fluid_buckets_maybe_entity",
+		"#warpedlib:colored/banners",
+		"#warpedlib:torches",
+		"#minecraft:small_flowers",
+		"#minecraft:tall_flowers",
+		"#warpedlib:pressure_plates",
+		"#minecraft:buttons",
+		"#minecraft:signs",
+		"#minecraft:hanging_signs",
+		"#minecraft:rails",
+		
+		"minecraft:flint_and_steel",
+		"minecraft:fire_charge",
+		"minecraft:snow",
+		"minecraft:glow_lichen",
+		"minecraft:structure_void",
+		"minecraft:spore_blossom",
+		"minecraft:redstone",
+		"minecraft:lever",
+		"minecraft:tripwire_hook",
+		"minecraft:string",
+		"minecraft:light",
+		
+		"minecraft:grass",
+		"minecraft:fern",
+		"minecraft:dead_bush",
+		"minecraft:seagrass",
+		"minecraft:tall_grass",
+		"minecraft:large_fern",
+		"minecraft:warped_roots",
+		"minecraft:nether_sprouts",
+		"minecraft:crimson_roots",
+		"minecraft:hanging_roots"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:copper/cut_blocks",
+		"#warpedlib:copper/cut_slabs",
+		"#warpedlib:copper/cut_stairs",
+		"#warpedlib:copper/normal_blocks"
+	]
+}

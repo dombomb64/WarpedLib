@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:copper/unwaxed/normal_blocks",
+		"#warpedlib:copper/waxed/normal_blocks"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:placeable_fluid_buckets_maybe_entity",
+		"#warpedlib:climbable",
+
+		"minecraft:cobweb",
+		"minecraft:powder_snow_bucket",
+		"minecraft:sweet_berries"
+	]
+}

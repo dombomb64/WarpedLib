@@ -1,0 +1,11 @@
+{
+	"values": [
+		"minecraft:wolf",
+		"#warpedlib:tameable_felines",
+		"#warpedlib:tameable_mounts",
+		"minecraft:parrot",
+		"minecraft:fox",
+		"minecraft:axolotl",
+		"minecraft:allay"
+	]
+}

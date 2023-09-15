@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:movement/sticky_top",
+		"#warpedlib:movement/slippery_top"
+	]
+}

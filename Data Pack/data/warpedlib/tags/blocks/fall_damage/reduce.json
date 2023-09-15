@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:colored/beds",
+		"minecraft:hay_block"
+	]
+}

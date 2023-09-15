@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:fluids",
+		"#minecraft:climbable",
+
+		"minecraft:cobweb",
+		"minecraft:powder_snow",
+		"minecraft:sweet_berry_bush"
+	]
+}

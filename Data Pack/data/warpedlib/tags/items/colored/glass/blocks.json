@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:colored/glass/colored/blocks",
+		"minecraft:glass"
+	]
+}

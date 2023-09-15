@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:collision/no_effect",
+		"#warpedlib:placeable_fluid_buckets_maybe_entity",
+
+		"minecraft:cobweb",
+		
+		"minecraft:vine",
+		"minecraft:weeping_vines",
+		"minecraft:twisting_vines",
+		"minecraft:glow_berries"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:colored/banners",
+		"#warpedlib:colored/beds",
+		"#warpedlib:colored/carpets",
+		"#warpedlib:colored/concrete_powder",
+		"#warpedlib:colored/concrete",
+		"#warpedlib:colored/glazed_terracotta",
+		"#warpedlib:colored/wool",
+		"#warpedlib:colored/candles/no_cake",
+		"#warpedlib:colored/glass/colored/blocks",
+		"#warpedlib:colored/glass/colored/panes",
+		"#warpedlib:colored/shulker_boxes/colored",
+		"#warpedlib:colored/terracotta/colored"
+	]
+}

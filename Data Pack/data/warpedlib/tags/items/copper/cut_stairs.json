@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:copper/unwaxed/cut_stairs",
+		"#warpedlib:copper/waxed/cut_stairs"
+	]
+}

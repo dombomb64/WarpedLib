@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#warpedlib:fall_damage/negate_always",
+		"minecraft:slime_block"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"values": [
+		"#warpedlib:projectiles_harmful",
+		"minecraft:experience_bottle",
+		"minecraft:potion",
+		"minecraft:snowball",
+		"minecraft:egg",
+		"minecraft:ender_pearl",
+		"minecraft:eye_of_ender"
+	]
+}
